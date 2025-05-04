@@ -1,0 +1,14 @@
+{
+    "admin": {
+        "password": "admin123",
+        "role": "librarian"
+    },
+    "mridul": {
+        "password": "jamesbond007",
+        "role": "student"
+    },
+    "test": {
+        "password": "test",
+        "role": "student"
+    }
+}

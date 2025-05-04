@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "1984",
+        "author": "George Orwell",
+        "status": "Available",
+        "borrower": null,
+        "due_date": null,
+        "summary": "A chilling portrait of a society under total surveillance and thought control."
+    },
+    {
+        "id": 2,
+        "title": "Leonardo Da Vinci",
+        "author": "Walter Isacsson",
+        "status": "Available",
+        "borrower": null,
+        "due_date": null,
+        "summary": "An acclaimed biography exploring the life and mind of the ultimate Renaissance man, connecting his art and science."
+    },
+    {
+        "id": 3,
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "status": "Checked Out",
+        "borrower": "student1",
+        "due_date": "2025-04-29",
+        "summary": "An exploration of human history from the Stone Age to the present."
+    },
+    {
+        "id": 4,
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "status": "Available",
+        "borrower": null,
+        "due_date": null,
+        "summary": "Epic science fiction novel set on the desert planet Arrakis."
+    },
+    {
+        "id": 5,
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert T. Kiyosaki",
+        "status": "Available",
+        "borrower": null,
+        "due_date": null,
+        "summary": "\"Tells about what does te rich parents taught their kids, which poor class do not taught to theirs.\""
+    }
+]
